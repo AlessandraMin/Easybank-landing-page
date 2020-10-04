@@ -10,7 +10,6 @@ body{
     font-family: "Public sans", sans-serif;
 }
 
-/*
 .nav-header img {
     width: 25%;
     height: 50%;
@@ -19,7 +18,7 @@ body{
 }
 
 
-*/
+
 
 .second{
     filter: invert(100%) sepia(100%) saturate(1%)
